@@ -1,4 +1,4 @@
-# ANALISIS-PERUBAHAN-TEMPERATUR-KALIMANTAN-BERDASARKAN-PERUBAHAN-IKLIM-SEPANJANG-TAHUN-2023
+# Analisis Perubahan Temperatur Kalimantan Berdasarkan Perubahan Iklim Sepanjang tahun 2023
 Proyek ini merupakan bagian dari Mata Kuliah Kapita Selekta di Universitas Negeri Jakarta (UNJ). Tujuan utama dari proyek ini adalah untuk melakukan pre-processing data dan analisis terkait suhu, curah hujan, kecepatan angin, dan arah angin di stasiun-stasiun meteorologi dan klimatologi yang tersebar di Pulau Kalimantan. Kami juga melakukan pemetaan distribusi suhu dan menganalisis hubungannya dengan kondisi geografis dan fenomena alam yang terjadi di daerah tersebut.
 
 ### Fitur Utama
